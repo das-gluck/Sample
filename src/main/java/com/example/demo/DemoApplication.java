@@ -9,6 +9,9 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("This is Demo project...");
+		System.out.println("Just a sample");
+		System.out.println("Just a sample");
+		System.out.println("Just a sample");
 	}
 
 }
